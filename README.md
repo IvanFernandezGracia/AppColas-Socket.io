@@ -2,10 +2,22 @@
 
 Node-Inquirer-Yargs
 
-## Photo
+## Screen Ticket-Desk
+Main screen that notifies the person of ticket "X" in which desk "Y" will be attended.  
+![image](https://user-images.githubusercontent.com/48660555/152698881-d3286bfa-e127-4f52-896a-18b345c38ac8.png)
+
+## Screen New Ticket
+Screen that creates a new ticket  
+![image](https://user-images.githubusercontent.com/48660555/152698842-b8482439-9836-4ae5-b2c1-d41d850b6a81.png)
+
+## Screen Ticket-Desk
+Screen of the person who attends to people with a ticket. It displays the ticket that is being attended at that moment, the ticket number in the waiting queue and a button to attend the next pending ticket.  
+![image](https://user-images.githubusercontent.com/48660555/152698849-6ee51122-c220-4811-a003-92cbe4ba678c.png)
 
 
 ## Video 
+https://user-images.githubusercontent.com/48660555/152698635-ba2497c9-dc4a-4936-b7d1-1b74f8cb33ee.mp4
+
 
 
 <!-- Tech -->
