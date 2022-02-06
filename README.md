@@ -1,6 +1,7 @@
 # AppColas-Socket.io
 
-Node-Inquirer-Yargs
+Application of a ticket system with a queue, such as that of banks or pharmacies. Workers at desks attend to pending tickets. The people in the waiting queue are notified of the turn of their ticket and in which desk it will be attended at that moment by means of a screen. Main logic solved is: assign Tickets, read tickets and Notifications to people whit ticket your turn . Used express and socket.io.
+
 
 ## Screen Ticket-Desk
 Main screen that notifies the person of ticket "X" in which desk "Y" will be attended.  
@@ -35,7 +36,7 @@ https://user-images.githubusercontent.com/48660555/152698635-ba2497c9-dc4a-4936-
           <li>Dotenv</li>
           <li>Express</li>
           <li>Socket.io</li>
-          <li>Model Class Logic</li>
+          <li>Model Class ES6 Logic</li>
           <li>Nodemon (ignore DB .json)</li>
           <li>Audio</li>
         </ul>
