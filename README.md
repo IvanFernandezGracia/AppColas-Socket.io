@@ -27,29 +27,38 @@ https://user-images.githubusercontent.com/48660555/152698635-ba2497c9-dc4a-4936-
     <tr>
       <th align="center">Skills</th>
       <th align="center">Skills</th>      
+      <th align="center">Skills</th>      
     </tr>
         <td>
         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
+          <li>Cors</li>
+          <li>Dotenv</li>
+          <li>Express</li>
+          <li>Socket.io</li>
+          <li>Model Class Logic</li>
+          <li>Nodemon (ignore DB .json)</li>
+          <li>Audio</li>
         </ul>
       </td>    
         <td>
         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
+          <li>Socket.io Backend</li>
+          <li>Socket.io Frontend</li>
+          <li>Socket.io Namespace: "/" room: "global"</li>
+          <li>Event Socket.io</li>
+          <li>Socket .emit</li>
+          <li>Socket .on </li>
+          <li>Socket callbacks</li>
         </ul>
       </td>
         <td>
         <ul>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
-          <li>Context</li>
+          <li>middlewares</li>
+          <li>routes</li>
+          <li>Frontend express.static</li>
+          <li>Path Package</li>
+          <li>fs Package</li>
+          <li>Date().getDate()</li>
         </ul>
       </td>
   </tbody>
